@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reverseGraphemeClusters from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-grapheme-clusters@esm/index.mjs';
+import reverseGraphemeClusters from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-grapheme-clusters@v0.1.0-esm/index.mjs';
 ```
 
 #### reverseGraphemeClusters( str )
@@ -76,7 +76,7 @@ out = reverseGraphemeClusters( 'foo bar' );
 <body>
 <script type="module">
 
-import reverseGraphemeClusters from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-grapheme-clusters@esm/index.mjs';
+import reverseGraphemeClusters from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-grapheme-clusters@v0.1.0-esm/index.mjs';
 
 var str = reverseGraphemeClusters( 'presidential election' );
 // returns 'noitcele laitnediserp'
