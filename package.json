@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-reverse-grapheme-clusters",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Reverse the grapheme clusters (i.e., user-perceived characters) of a string.",
   "license": "Apache-2.0",
   "author": {
