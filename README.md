@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import reverseGraphemeClusters from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-grapheme-clusters@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-base-reverse-grapheme-clusters/tags). For example,
+
+```javascript
 import reverseGraphemeClusters from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-grapheme-clusters@v0.2.2-esm/index.mjs';
 ```
 
@@ -76,7 +81,7 @@ out = reverseGraphemeClusters( 'foo bar' );
 <body>
 <script type="module">
 
-import reverseGraphemeClusters from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-grapheme-clusters@v0.2.2-esm/index.mjs';
+import reverseGraphemeClusters from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-grapheme-clusters@esm/index.mjs';
 
 var str = reverseGraphemeClusters( 'presidential election' );
 // returns 'noitcele laitnediserp'
