@@ -112,6 +112,13 @@ str = reverseGraphemeClusters( '🐶🐮🐷🐰🐸' );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/string-base/reverse-code-points`][@stdlib/string/base/reverse-code-points]</span><span class="delimiter">: </span><span class="description">reverse the Unicode code points of a string.</span>
+-   <span class="package-name">[`@stdlib/string-base/reverse`][@stdlib/string/base/reverse]</span><span class="delimiter">: </span><span class="description">reverse the UTF-16 code units of a string.</span>
+
 </section>
 
 <!-- /.related -->
@@ -187,6 +194,14 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/string-base-reverse-grapheme-clusters/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-base-reverse-grapheme-clusters/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/string/base/reverse-code-points]: https://github.com/stdlib-js/string-base-reverse-code-points
+
+[@stdlib/string/base/reverse]: https://github.com/stdlib-js/string-base-reverse
+
+<!-- </related-links> -->
 
 </section>
 
